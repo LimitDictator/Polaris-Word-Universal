@@ -1,0 +1,23 @@
+{
+  "repo": "polaris-word-universal",
+  "product": "Polaris Word Universal",
+  "kind": "productivity",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "office-suite",
+  "topics": [
+    "polaris-word",
+    "polaris-windows",
+    "office-suite-desktop",
+    "how-to-install-polaris",
+    "polaris-word-desktop-package",
+    "polaris-workspace",
+    "polaris-word-pro-tools",
+    "polaris-suite",
+    "zentool-polaris",
+    "polaris-word-tool-9"
+  ],
+  "site": "zentool.art"
+}
